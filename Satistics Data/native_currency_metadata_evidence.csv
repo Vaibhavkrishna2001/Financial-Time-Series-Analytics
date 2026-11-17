@@ -1,0 +1,4 @@
+Bank,Ticker,Reported_Yahoo_Currency,Interpretation,Exchange_Code,Exchange_Name,Instrument_Name,Metadata_Source
+Lloyds,LLOY.L,GBp,GBX (pence sterling; Yahoo label GBp),LSE,LSE,Lloyds Banking Group plc,Yahoo Finance instrument metadata via yfinance Ticker.get_info()
+Barclays,BARC.L,GBp,GBX (pence sterling; Yahoo label GBp),LSE,LSE,Barclays PLC,Yahoo Finance instrument metadata via yfinance Ticker.get_info()
+Goldman Sachs,GS,USD,USD,NYQ,NYSE,"The Goldman Sachs Group, Inc.",Yahoo Finance instrument metadata via yfinance Ticker.get_info()
