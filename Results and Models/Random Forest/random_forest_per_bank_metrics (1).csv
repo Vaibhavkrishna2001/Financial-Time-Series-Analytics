@@ -1,0 +1,4 @@
+Bank,MAE,RMSE,MAPE,R2
+Barclays,6.3,8.52,1.81,0.99
+Goldman Sachs,897.18,1232.12,1.67,0.99
+Lloyds,1.03,1.42,1.32,0.99

@@ -1,0 +1,4 @@
+Bank_Name,Barclays,Goldman Sachs,Lloyds
+Barclays,1.0,0.49,0.77
+Goldman Sachs,0.49,1.0,0.43
+Lloyds,0.77,0.43,1.0

@@ -1,0 +1,5 @@
+Bank,Model,Training_Time_Sec,MAE,RMSE,MAPE,R2
+All (pooled; supplementary),Random Forest,1031.06,301.0,710.78,1.6,1.0
+Barclays,Random Forest,,6.3,8.52,1.81,0.99
+Goldman Sachs,Random Forest,,897.18,1232.12,1.67,0.99
+Lloyds,Random Forest,,1.03,1.42,1.32,0.99

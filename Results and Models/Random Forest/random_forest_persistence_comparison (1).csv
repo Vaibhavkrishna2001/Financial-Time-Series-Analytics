@@ -1,0 +1,4 @@
+Bank,RF_MAE_GBX,Persistence_MAE_GBX,RF_RMSE_GBX,Persistence_RMSE_GBX,RF_MAPE_pct,Persistence_MAPE_pct,RF_R2,Persistence_R2,RF_Directional_Accuracy_pct,Persistence_Directional_Accuracy_pct
+Barclays,6.3,5.05,8.52,6.88,1.81,1.47,0.99,1.0,55.14,
+Goldman Sachs,897.18,785.84,1232.12,1141.76,1.67,1.44,0.99,0.99,45.56,
+Lloyds,1.03,0.96,1.42,1.36,1.32,1.2,0.99,1.0,56.45,

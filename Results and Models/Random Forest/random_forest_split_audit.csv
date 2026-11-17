@@ -1,0 +1,4 @@
+Bank,Train_Start,Train_End,Test_Start,Test_End,Train_Rows,Test_Targets,Common_Training_Cutoff
+Barclays,2015-01-16,2024-04-22,2024-04-25,2026-08-24,2337,587,2024-04-22
+Goldman Sachs,2015-01-16,2024-04-22,2024-04-23,2026-08-24,2331,586,2024-04-22
+Lloyds,2015-01-16,2024-04-22,2024-04-26,2026-08-24,2338,588,2024-04-22

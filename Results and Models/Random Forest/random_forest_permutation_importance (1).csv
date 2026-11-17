@@ -1,0 +1,13 @@
+Feature,Permutation_Importance_Mean,Permutation_Importance_Std
+Open_Lag1,23.34,0.74
+High_Lag1,21.42,0.7
+Lag3,18.97,0.6
+Lag1,7.62,0.25
+Lag2,7.47,0.25
+MA10,5.47,0.19
+Low_Lag1,2.13,0.09
+MA5,1.91,0.05
+Volume_Lag1,0.52,0.02
+Bank_Lloyds,-0.01,0.01
+Bank_Barclays,-0.03,0.01
+Bank_Goldman Sachs,-0.04,0.01
