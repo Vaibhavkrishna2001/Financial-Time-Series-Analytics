@@ -1,0 +1,2 @@
+research_start,research_end,download_start,download_end_exclusive,yfinance_auto_adjust,price_standardisation,fx_ticker,fx_quote,fx_matching,volume_conversion,total_rows,retrieval_run_date
+2015-01-02,2026-08-24,2015-01-02,2026-08-25,False,Goldman Sachs USD OHLC converted to GBX; Lloyds/Barclays unchanged,GBPUSD=X,USD per GBP,strictly prior daily close; maximum age 7 calendar days,none; volume is share count,8802,2026-11-15
