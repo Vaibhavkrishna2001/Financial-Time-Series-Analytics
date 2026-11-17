@@ -1,0 +1,10 @@
+Bank,Model,Model_MAE_GBX,Persistence_MAE_GBX,Model_RMSE_GBX,Persistence_RMSE_GBX,Model_MAPE_pct,Persistence_MAPE_pct,Model_R2,Persistence_R2
+Barclays,ARIMA,5.07,5.05,6.9,6.89,1.47,1.47,1.0,1.0
+Goldman Sachs,ARIMA,785.69,785.84,1137.12,1141.76,1.44,1.44,0.99,0.99
+Lloyds,ARIMA,0.97,0.96,1.36,1.36,1.21,1.21,1.0,1.0
+Barclays,Random Forest,6.3,5.05,8.52,6.88,1.81,1.47,0.99,1.0
+Goldman Sachs,Random Forest,897.18,785.84,1232.12,1141.76,1.67,1.44,0.99,0.99
+Lloyds,Random Forest,1.03,0.96,1.42,1.36,1.32,1.2,0.99,1.0
+Barclays,LSTM,9.41,5.05,13.5,6.88,2.4,1.47,0.98,1.0
+Goldman Sachs,LSTM,4560.3,785.84,9262.86,1141.76,6.73,1.44,0.55,0.99
+Lloyds,LSTM,1.05,0.96,1.48,1.36,1.29,1.2,0.99,1.0

@@ -1,0 +1,4 @@
+Bank,ARIMA,LSTM,Random Forest
+Barclays,1.0,0.98,0.99
+Goldman Sachs,0.99,0.55,0.99
+Lloyds,1.0,0.99,0.99

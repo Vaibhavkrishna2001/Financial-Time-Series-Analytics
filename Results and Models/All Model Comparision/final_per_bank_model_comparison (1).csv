@@ -1,0 +1,10 @@
+Bank,Model,MAE_GBX,RMSE_GBX,MAPE_pct,R2
+Barclays,ARIMA,5.07,6.9,1.47,1.0
+Barclays,LSTM,9.41,13.5,2.4,0.98
+Barclays,Random Forest,6.3,8.52,1.81,0.99
+Goldman Sachs,ARIMA,785.69,1137.12,1.44,0.99
+Goldman Sachs,LSTM,4560.3,9262.86,6.73,0.55
+Goldman Sachs,Random Forest,897.18,1232.12,1.67,0.99
+Lloyds,ARIMA,0.97,1.36,1.21,1.0
+Lloyds,LSTM,1.05,1.48,1.29,0.99
+Lloyds,Random Forest,1.03,1.42,1.32,0.99
