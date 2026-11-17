@@ -1,0 +1,5 @@
+Bank,Model,Training_Time_Sec,MAE,RMSE,MAPE,R2
+All (pooled),LSTM,1955.93,1521.0,5343.37,3.47,0.96
+Barclays,LSTM,,9.41,13.5,2.4,0.98
+Goldman Sachs,LSTM,,4560.3,9262.86,6.73,0.55
+Lloyds,LSTM,,1.05,1.48,1.29,0.99

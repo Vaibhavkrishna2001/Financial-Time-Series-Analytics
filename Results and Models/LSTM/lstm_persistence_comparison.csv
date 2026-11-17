@@ -1,0 +1,4 @@
+Bank,LSTM_MAE_GBX,Persistence_MAE_GBX,LSTM_RMSE_GBX,Persistence_RMSE_GBX,LSTM_MAPE_pct,Persistence_MAPE_pct,LSTM_R2,Persistence_R2,LSTM_Directional_Accuracy_pct,Persistence_Directional_Accuracy_pct,Test_Targets,Test_Start,Test_End
+Barclays,9.41,5.05,13.5,6.88,2.4,1.47,0.98,1.0,48.89,,587,2024-04-25,2026-08-24
+Goldman Sachs,4560.3,785.84,9262.86,1141.76,6.73,1.44,0.55,0.99,48.89,,586,2024-04-23,2026-08-24
+Lloyds,1.05,0.96,1.48,1.36,1.29,1.2,0.99,1.0,51.03,,588,2024-04-26,2026-08-24

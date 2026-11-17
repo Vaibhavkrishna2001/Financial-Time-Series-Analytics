@@ -1,0 +1,4 @@
+Bank,Train_Min_GBX,Train_Max_GBX,Test_Input_Min_Scaled,Test_Input_Max_Scaled,Test_Target_Min_Scaled,Test_Target_Max_Scaled,Test_Actual_Min_GBX,Test_Actual_Max_GBX,Test_Pred_Min_GBX,Test_Pred_Max_GBX,Pred_Mean_GBX,Actual_Mean_GBX,Pred_Std_GBX,Actual_Std_GBX,Test_Input_Outside_Train_Range_Pct,Test_Target_Outside_Train_Range_Pct
+Barclays,80.24,288.95,0.29,2.16,0.58,2.16,202.0,530.4,191.27,504.39,338.24,345.31,90.42,98.52,60.73,65.93
+Goldman Sachs,9583.08,33881.48,0.83,3.16,0.99,3.16,33730.01,86310.78,33536.77,84258.95,49228.36,53543.17,10328.68,13830.78,94.62,99.83
+Lloyds,23.98,89.0,0.26,1.43,0.43,1.43,51.88,117.1,51.37,115.98,78.36,78.57,19.09,19.53,28.83,34.01

@@ -1,0 +1,4 @@
+Bank,Observations,Train_Targets,Validation_Targets,Test_Targets,Train_End,Validation_End,Test_Start,Test_End,Scaler_Fit_End
+Barclays,2936,2052,235,587,2023-05-18,2024-04-22,2024-04-25,2026-08-24,2023-05-18
+Goldman Sachs,2927,2046,235,586,2023-05-15,2024-04-22,2024-04-23,2026-08-24,2023-05-15
+Lloyds,2939,2053,235,588,2023-05-18,2024-04-22,2024-04-26,2026-08-24,2023-05-18
